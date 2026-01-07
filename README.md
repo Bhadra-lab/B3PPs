@@ -4,7 +4,7 @@ This repository provides code and data used for predicting Blood–Brain Barrier
 
 ---
 
-## Running the Prediction Code
+## Running the Prediction
 
 Clone the repository and navigate to the prediction directory. Then set up the Python environment:
 
@@ -16,6 +16,14 @@ source env/bin/activate      # Linux / macOS
 pip install -r requirements.txt   # Install required packages
 python app.py                     # Start the prediction code
 ```
+## Online Prediction Server
+
+A hosted version of the prediction model is available and can be used easily through the following link:
+
+https://huggingface.co/spaces/Bhadralab/B3PPs_Predict
+
+You can go to this link and **run predictions online without setting up the code locally**.
+
 ## Data
 
 The datasets used in this study are provided in the `data/` directory.
