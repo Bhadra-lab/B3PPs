@@ -1,6 +1,6 @@
 # BrainShuttle-ESM
 
-This repository provides code for predicting Blood–Brain Barrier–Penetrating Peptides (B3PPs).
+This repository provides code and data used for predicting Blood–Brain Barrier–Penetrating Peptides (B3PPs).
 
 ---
 
